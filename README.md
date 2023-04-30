@@ -1,6 +1,9 @@
 # Faker
 A tool to generate fake profile for filling of form
-
+# Service
+* To get your own custom hacking tool, dm me on instagram @coding_memz
+* Get the 14M passwords list containing worlds mostly used passwords, dm me on instagram @coding_memz.
+* Get the worlds best hacking course, dm me on instagram @coding_memz
 # Usage
 -> ptrhon3 gen.py
 # Screenshot
